@@ -142,7 +142,7 @@ include('header.php');
                                         <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
                                         <a href="#"><i class="fa fa-google-plus fa-lg"></i></a>
                                     </div>
-                                    <img src="images/team/Twilla.jpg" style="max-height: 700px;" class="img-fluid" alt="">
+                                    <img src="images/team/Twilla2.jpg" style="max-height: 700px;" class="img-fluid" alt="">
                                 </figure>
 
                                 <h3>Twilla Adah Egwa</h3>
@@ -159,7 +159,7 @@ include('header.php');
                                         <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
                                         <a href="#"><i class="fa fa-google-plus fa-lg"></i></a>
                                     </div>
-                                    <img src="images/team/jumoke.jpg" style="max-height: 700px;"  class="img-fluid" alt="">
+                                    <img src="images/team/Jumoke.jpg" style="max-height: 700px;"  class="img-fluid" alt="">
                                 </figure>
 
                                 <h3>OlaJumoke Peace Fagade</h3>
@@ -192,7 +192,7 @@ include('header.php');
                                         <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
                                         <a href="#"><i class="fa fa-google-plus fa-lg"></i></a>
                                     </div>
-                                    <img src="images/team/jeff.jpg" style="max-height: 700px;"  class="img-fluid" alt="">
+                                    <img src="images/team/Jeff.jpg" style="max-height: 700px;"  class="img-fluid" alt="">
                                 </figure>
 
                                 <h3>Jefferson Nnaji</h3>
