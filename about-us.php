@@ -192,7 +192,7 @@ include('header.php');
                                         <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
                                         <a href="#"><i class="fa fa-google-plus fa-lg"></i></a>
                                     </div>
-                                    <img src="images/team/Jefff.jpg" style="max-height: 700px;"  class="img-fluid" alt="">
+                                    <img src="images/team/jefff.jpg" style="max-height: 700px;"  class="img-fluid" alt="">
                                 </figure>
 
                                 <h3>Jefferson Nnaji</h3>
