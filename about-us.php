@@ -3,6 +3,7 @@ $web_title = "About Us";
 include('header.php');
 ?>
 <!-- content begin -->
+<!-- end it here -->
 <div id="content" class="no-bottom no-top">
             <div id="top"></div>
 
