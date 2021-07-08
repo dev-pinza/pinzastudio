@@ -16,7 +16,8 @@ include('header.php');
                                 <div class="col-md-8">
                                     <div class="spacer-double d-block d-sm-none d-md-block"></div>
 									<h3>Pinza Studio</h3>
-                                    <h1 class="big b">Creative Software Development <span class="id-color">&amp;</span> Data Science</h1>
+                                    <h1 class="big b">Creative Software Development <span class="id-color">&amp;</span> Enterainment
+</h1>
                                     <div class="spacer-single"></div>
                                     <a href="#" class="btn-custom">Request Service</a>
                                 </div>
