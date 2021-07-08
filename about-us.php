@@ -36,9 +36,7 @@ include('header.php');
                         <div class="inner-padding">
                             <div class="col-md-4 offset-md-8 wow fadeIn">
                                 <h2 class="mb20">Who We Are</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
-                                    laborum.
+                                <p>Pinza Studio is a software as a service startup, whh's goals are developing creative solutions to aid business efficiency
                                 </p>
                             </div>
                         </div>
@@ -60,14 +58,14 @@ include('header.php');
 										<i class="icon-pencil"></i>
 										<div class="text">
 											<h3>Our Vision</h3>
-											Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+											Being among the Top software companies
 										</div>
 									</div>
 								</div>
 								<!-- feature box close -->
 
 								<!-- feature box begin -->
-								<div class="col-md-6 feature-box mb40 sq-item wow">
+								<!-- <div class="col-md-6 feature-box mb40 sq-item wow">
 									<div class="feature-box style-2">
 										<i class="icon-envelope"></i>
 										<div class="text">
@@ -75,7 +73,7 @@ include('header.php');
 											Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 										</div>
 									</div>
-								</div>
+								</div> -->
 								<!-- feature box close -->
 								
 							</div>

@@ -36,7 +36,7 @@ include('header.php');
                                 <i class="icon-pencil"></i>
                                 <div class="text">
                                     <h3>Website Design & Software Development</h3>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
+                                    We design and develope creative web solution for your businesses
                                 </div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@ include('header.php');
                             <div class="feature-box style-2 left">
                                 <i class="icon-envelope"></i>
                                 <div class="text">
-                                    <h3>Marketing</h3>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
+                                    <h3>Digital Marketing</h3>
+                                    we help market your business in the digital world through (Social Media, SEO and Many more)
                                 </div>
                             </div>
                         </div>
@@ -57,10 +57,10 @@ include('header.php');
                         <!-- feature box begin -->
                         <div class="col-md-4 col-sm-6 mb40 sq-item wow">
                             <div class="feature-box style-2 left">
-                                <i class="icon-camera"></i>
+                                <i class="icon-web"></i>
                                 <div class="text">
-                                    <h3>Photography</h3>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
+                                    <h3>Block Chain</h3>
+                                    we develop Dcentralized Applications for your businesses, using the Etherum network.
                                 </div>
                             </div>
                         </div>
@@ -72,19 +72,7 @@ include('header.php');
                                 <i class="icon-pricetags"></i>
                                 <div class="text">
                                     <h3>Branding</h3>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                </div>
-                            </div>
-                        </div>
-                        <!-- feature box close -->
-
-                        <!-- feature box begin -->
-                        <div class="col-md-4 col-sm-6 sm-mb40 sq-item wow">
-                            <div class="feature-box style-2 left">
-                                <i class="icon-tools"></i>
-                                <div class="text">
-                                    <h3>Development</h3>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
+                                    Expert in branding...
                                 </div>
                             </div>
                         </div>
